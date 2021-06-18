@@ -12,7 +12,7 @@
 
 - [3D](https://github.com/hyejeong99/3D-Modeling) - Rhino 3D Modeling
 
-##네임택
+## 네임택
 ![네임택](https://user-images.githubusercontent.com/59854960/122507078-8734d800-d03a-11eb-979e-0e38a5096017.jpg)
 
 ## 시계
